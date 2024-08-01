@@ -42,4 +42,4 @@ Este capítulo está diseñado para Google Colab.
   - Personalización de Gráficos
   - Subgráficos
 
-![Logo del Curso]()
+![Logo del Curso](readme.png)
