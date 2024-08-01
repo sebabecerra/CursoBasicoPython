@@ -41,3 +41,5 @@ Este capítulo está diseñado para Google Colab.
   - Gráficos Estadísticos
   - Personalización de Gráficos
   - Subgráficos
+
+![Logo del Curso]()
